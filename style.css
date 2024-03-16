@@ -99,12 +99,13 @@ nav.showmenu a {
         position: absolute;
         top: 100%;
         right: 0;
-        width: 100%;
-
-        padding: 10px 0;
+       width: 50%;
+       background-color:rgba(214, 214, 214, 0.8);
+        padding: 30px;
         text-align: center;
-
+       border-radius: 10px;
         display: none;
+        padding-bottom: 30px;
     }
 
     nav a {
@@ -112,6 +113,7 @@ nav.showmenu a {
         padding: 10px 0;
         text-align: center;
         margin: 0;
+        color: black;
     }
 
     .menu {
